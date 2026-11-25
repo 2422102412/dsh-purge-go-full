@@ -1,6 +1,6 @@
 {
   "name": "dsh-purge-go",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Standalone port of dsh-purge for dsh-go (Android/PRoot + desktop): prompt-inject kernel, region gate, refusal-recover, objective card, redteam skills & preset — zero deps, no engine patching, no PowerShell.",
   "keywords": [
     "dsh",
